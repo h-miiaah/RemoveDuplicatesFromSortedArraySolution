@@ -8,4 +8,7 @@
         if(i < nums.length - 1 && nums[i] == nums[i +1]){
             continue;
         }
+        nums[count] = nums[i];
+        count++;
+    }
 };
