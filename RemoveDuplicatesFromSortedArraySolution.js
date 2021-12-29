@@ -13,3 +13,10 @@
     }
     return count;
 };
+
+/*
+
+- set length of the updated array to 0
+- loop through all of the elements in the array
+
+*/
